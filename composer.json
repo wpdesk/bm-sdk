@@ -1,5 +1,5 @@
 {
-    "name": "bluepayment-plugin/bm-sdk",
+    "name": "wpdesk/bm-sdk",
     "description": "Blue Media PHP SDK",
     "license": "LGPL-3.0-only",
     "require": {
